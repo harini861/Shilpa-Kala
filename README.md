@@ -27,40 +27,40 @@ Shilpa-Kala is an Android application developed using GenAI concepts to help art
 ## Screenshots
 
 ### Welcome Page
-![Welcome Page](screenshots/welcome%20page.jpeg)
+<img src="screenshots/welcome%20page.jpeg" width="250">
 
 ### Login Page
-![Login Page](screenshots/login%20page.jpeg)
+<img src="screenshots/login%20page.jpeg" width="250">
 
 ### Home Page
-![Home Page](screenshots/home.png)
+<img src="screenshots/home.png" width="250">
 
 ### Photo Capture
-![Photo Capture](screenshots/photo%20capture.jpeg)
+<img src="screenshots/photo%20capture.jpeg" width="250">
 
 ### Adding Image
-![Adding Image](screenshots/adding%20image.jpeg)
+<img src="screenshots/adding%20image.jpeg" width="250">
 
 ### Description Page
-![Description Page](screenshots/description%20page.jpeg)
+<img src="screenshots/description%20page.jpeg" width="250">
 
 ### Amount Processing
-![Amount Processing](screenshots/amount%20processing.jpeg)
+<img src="screenshots/amount%20processing.jpeg" width="250">
 
 ### Cart
-![Cart](screenshots/cart.jpeg)
+<img src="screenshots/cart.jpeg" width="250">
 
 ### Added to Cart
-![Added to Cart](screenshots/added%20to%20cart.jpeg)
+<img src="screenshots/added%20to%20cart.jpeg" width="250">
 
 ### Cart Page
-![Cart Page](screenshots/cart%20page.jpeg)
+<img src="screenshots/cart%20page.jpeg" width="250">
 
 ### Payment Page
-![Payment Page](screenshots/payment%20page.jpeg)
+<img src="screenshots/payment%20page.jpeg" width="250">
 
 ### Portfolio Page
-![Portfolio Page](screenshots/porfolio%20page.jpeg)
+<img src="screenshots/porfolio%20page.jpeg" width="250">
 
 ### Sharing on Social Media
-![Sharing on Social Media](screenshots/sharing%20on%20social_media.jpeg)
+<img src="screenshots/sharing%20on%20social_media.jpeg" width="250">
