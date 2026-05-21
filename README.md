@@ -32,9 +32,6 @@ Shilpa-Kala is an Android application developed using GenAI concepts to help art
 ### Login Page
 <img src="screenshots/login%20page.jpeg" width="250">
 
-### Home Page
-<img src="screenshots/home.png" width="250">
-
 ### Photo Capture
 <img src="screenshots/photo%20capture.jpeg" width="250">
 
