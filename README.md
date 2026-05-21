@@ -26,15 +26,15 @@ USN: 1CR22IS060
 
 ##  Screenshots
 
-added to cart
-adding image
-amount processing
-cart page
-cart
-description page
-login page
-payment page
-photo capture
-portfolio page
-sharing on social media
-welcome page
+added to cart ,
+adding image ,
+amount processing ,
+cart page ,
+cart ,
+description page ,
+login page ,
+payment page ,
+photo capture ,
+portfolio page ,
+sharing on social media ,
+welcome page .
